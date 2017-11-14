@@ -12,7 +12,7 @@ namespace MessageReciverService.HandleToConsole
         {
             string message = obj as string;
 
-            Console.WriteLine($"Received :\n {message}\n");
+            Console.WriteLine($"Received message :\n {message}\n");
         }
     }
 }
