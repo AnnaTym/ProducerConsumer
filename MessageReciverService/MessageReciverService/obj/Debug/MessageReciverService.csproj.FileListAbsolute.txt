@@ -1,0 +1,11 @@
+C:\Study\MessageReciverService\MessageReciverService\bin\Debug\MessageReciverService.exe.config
+C:\Study\MessageReciverService\MessageReciverService\bin\Debug\MessageReciverService.exe
+C:\Study\MessageReciverService\MessageReciverService\bin\Debug\MessageReciverService.pdb
+C:\Study\MessageReciverService\MessageReciverService\bin\Debug\MessageReciverService.Contracts.dll
+C:\Study\MessageReciverService\MessageReciverService\bin\Debug\MessageReciverService.Contracts.pdb
+C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.exe.config
+C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.exe
+C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.pdb
+C:\Study\MessageReciverService\MessageReciverService\obj\Debug\MessageReciverService.csprojResolveAssemblyReference.cache
+C:\Study\MessageReciverService\MessageReciverService\obj\Debug\MessageReciverService.exe
+C:\Study\MessageReciverService\MessageReciverService\obj\Debug\MessageReciverService.pdb
