@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel.Composition;
+using System.Configuration;
 using System.Net;
 using System.Net.Sockets;
 
@@ -10,13 +11,14 @@ namespace SysLogServer.Listeners
     {
         public Action<byte[]> MessageRecivedAction { get; set; }
 
-        private const int listenPort = 11000;
         private readonly UdpClient listener;
+
         private IPEndPoint groupEP;
         private bool isListen;
 
         public UdpListener()
         {
+            int listenPort = Int32.Parse(ConfigurationManager.AppSettings["udpPort"]);
             listener = new UdpClient(listenPort);
             groupEP = new IPEndPoint(IPAddress.Any, listenPort);
         }
