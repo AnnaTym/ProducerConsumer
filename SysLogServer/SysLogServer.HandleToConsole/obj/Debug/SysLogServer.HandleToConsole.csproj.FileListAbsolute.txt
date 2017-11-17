@@ -1,0 +1,10 @@
+C:\Study\Git\ProducerConsumer\MessageReceiverService\SysLogServerBuild\SysLogServer.HandleToConsole.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\SysLogServerBuild\SysLogServer.HandleToConsole.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.HandleToConsole\obj\Debug\SysLogServer.HandleToConsole.csprojResolveAssemblyReference.cache
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.HandleToConsole\obj\Debug\SysLogServer.HandleToConsole.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.HandleToConsole\obj\Debug\SysLogServer.HandleToConsole.pdb
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServerBuild\SysLogServer.HandleToConsole.dll
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServerBuild\SysLogServer.HandleToConsole.pdb
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServer.HandleToConsole\obj\Debug\SysLogServer.HandleToConsole.csprojResolveAssemblyReference.cache
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServer.HandleToConsole\obj\Debug\SysLogServer.HandleToConsole.dll
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServer.HandleToConsole\obj\Debug\SysLogServer.HandleToConsole.pdb

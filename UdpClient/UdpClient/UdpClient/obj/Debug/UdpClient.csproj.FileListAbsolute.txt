@@ -1,0 +1,7 @@
+C:\Study\Git\ProducerConsumer\ClientMessage\Client\Client\bin\Debug\UdpClient.exe.config
+C:\Study\Git\ProducerConsumer\UdpClient\UdpClient\UdpClient\bin\Debug\UdpClient.exe.config
+C:\Study\Git\ProducerConsumer\UdpClient\UdpClient\UdpClient\bin\Debug\UdpClient.exe
+C:\Study\Git\ProducerConsumer\UdpClient\UdpClient\UdpClient\bin\Debug\UdpClient.pdb
+C:\Study\Git\ProducerConsumer\UdpClient\UdpClient\UdpClient\obj\Debug\UdpClient.csprojResolveAssemblyReference.cache
+C:\Study\Git\ProducerConsumer\UdpClient\UdpClient\UdpClient\obj\Debug\UdpClient.exe
+C:\Study\Git\ProducerConsumer\UdpClient\UdpClient\UdpClient\obj\Debug\UdpClient.pdb

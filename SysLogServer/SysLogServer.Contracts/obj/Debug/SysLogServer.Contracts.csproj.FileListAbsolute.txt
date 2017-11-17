@@ -1,0 +1,8 @@
+C:\Study\Git\ProducerConsumer\MessageReceiverService\SysLogServerBuild\SysLogServer.Contracts.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\SysLogServerBuild\SysLogServer.Contracts.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.Contracts\obj\Debug\SysLogServer.Contracts.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.Contracts\obj\Debug\SysLogServer.Contracts.pdb
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServerBuild\SysLogServer.Contracts.dll
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServerBuild\SysLogServer.Contracts.pdb
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServer.Contracts\obj\Debug\SysLogServer.Contracts.dll
+C:\Study\Git\ProducerConsumer\SysLogServer\SysLogServer.Contracts\obj\Debug\SysLogServer.Contracts.pdb

@@ -1,0 +1,14 @@
+C:\Study\MessageReciverService\MessageReciverService.HandleToConsole\bin\Debug\MessageReciverService.HandleToConsole.dll
+C:\Study\MessageReciverService\MessageReciverService.HandleToConsole\bin\Debug\MessageReciverService.HandleToConsole.pdb
+C:\Study\MessageReciverService\MessageReciverService.HandleToConsole\bin\Debug\MessageReciverService.Contracts.dll
+C:\Study\MessageReciverService\MessageReciverService.HandleToConsole\bin\Debug\MessageReciverService.Contracts.pdb
+C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToConsole.dll
+C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToConsole.pdb
+C:\Study\MessageReciverService\MessageReciverService.HandleToConsole\obj\Debug\MessageReciverService.HandleToConsole.csprojResolveAssemblyReference.cache
+C:\Study\MessageReciverService\MessageReciverService.HandleToConsole\obj\Debug\MessageReciverService.HandleToConsole.dll
+C:\Study\MessageReciverService\MessageReciverService.HandleToConsole\obj\Debug\MessageReciverService.HandleToConsole.pdb
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToConsole.dll
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToConsole.pdb
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.HandleToConsole\obj\Debug\MessageReciverService.HandleToConsole.csprojResolveAssemblyReference.cache
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.HandleToConsole\obj\Debug\MessageReciverService.HandleToConsole.dll
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.HandleToConsole\obj\Debug\MessageReciverService.HandleToConsole.pdb

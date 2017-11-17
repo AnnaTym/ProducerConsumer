@@ -1,9 +1,0 @@
-C:\Study\MessageReciverService\MessageReciverService.HandleToFile\bin\Debug\MessageReciverService.HandleToFile.dll
-C:\Study\MessageReciverService\MessageReciverService.HandleToFile\bin\Debug\MessageReciverService.HandleToFile.pdb
-C:\Study\MessageReciverService\MessageReciverService.HandleToFile\bin\Debug\MessageReciverService.Contracts.dll
-C:\Study\MessageReciverService\MessageReciverService.HandleToFile\bin\Debug\MessageReciverService.Contracts.pdb
-C:\Study\MessageReciverService\MessageReciverService.HandleToFile\obj\Debug\MessageReciverService.HandleToFile.csprojResolveAssemblyReference.cache
-C:\Study\MessageReciverService\MessageReciverService.HandleToFile\obj\Debug\MessageReciverService.HandleToFile.dll
-C:\Study\MessageReciverService\MessageReciverService.HandleToFile\obj\Debug\MessageReciverService.HandleToFile.pdb
-C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToFile.dll
-C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToFile.pdb

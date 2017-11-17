@@ -1,0 +1,10 @@
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverBuild\MessageReciverService.Contracts.dll
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverBuild\MessageReciverService.Contracts.pdb
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.Contracts\obj\Debug\MessageReciverService.Contracts.dll
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.Contracts\obj\Debug\MessageReciverService.Contracts.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReciverBuild\MessageReciverService.Contracts.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReciverBuild\MessageReciverService.Contracts.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverBuild\MessageReceiverService.Contracts.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverBuild\MessageReceiverService.Contracts.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.Contracts\obj\Debug\MessageReceiverService.Contracts.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.Contracts\obj\Debug\MessageReceiverService.Contracts.pdb

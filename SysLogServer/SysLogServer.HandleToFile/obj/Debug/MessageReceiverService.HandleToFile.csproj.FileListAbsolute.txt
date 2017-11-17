@@ -1,0 +1,12 @@
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToFile.dll
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverBuild\MessageReciverService.HandleToFile.pdb
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.HandleToFile\obj\Debug\MessageReceiverService.HandleToFile.csprojResolveAssemblyReference.cache
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.HandleToFile\obj\Debug\MessageReciverService.HandleToFile.dll
+C:\Study\Git\ProducerConsumer\MessageReciverService\MessageReciverService.HandleToFile\obj\Debug\MessageReciverService.HandleToFile.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReciverBuild\MessageReciverService.HandleToFile.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReciverBuild\MessageReciverService.HandleToFile.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.HandleToFile\obj\Debug\MessageReceiverService.HandleToFile.csprojResolveAssemblyReference.cache
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverBuild\MessageReceiverService.HandleToFile.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverBuild\MessageReceiverService.HandleToFile.pdb
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.HandleToFile\obj\Debug\MessageReceiverService.HandleToFile.dll
+C:\Study\Git\ProducerConsumer\MessageReceiverService\MessageReceiverService.HandleToFile\obj\Debug\MessageReceiverService.HandleToFile.pdb

@@ -1,6 +1,0 @@
-C:\Study\MessageReciverService\MessageReciverService.Contracts\bin\Debug\MessageReciverService.Contracts.dll
-C:\Study\MessageReciverService\MessageReciverService.Contracts\bin\Debug\MessageReciverService.Contracts.pdb
-C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.Contracts.dll
-C:\Study\MessageReciverService\MessageReciverBuild\MessageReciverService.Contracts.pdb
-C:\Study\MessageReciverService\MessageReciverService.Contracts\obj\Debug\MessageReciverService.Contracts.dll
-C:\Study\MessageReciverService\MessageReciverService.Contracts\obj\Debug\MessageReciverService.Contracts.pdb

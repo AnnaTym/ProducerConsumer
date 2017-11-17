@@ -1,6 +1,0 @@
-C:\Study\Messages\ClientMessage\Client\Client\bin\Debug\Client.exe.config
-C:\Study\Messages\ClientMessage\Client\Client\bin\Debug\Client.exe
-C:\Study\Messages\ClientMessage\Client\Client\bin\Debug\Client.pdb
-C:\Study\Messages\ClientMessage\Client\Client\obj\Debug\Client.exe
-C:\Study\Messages\ClientMessage\Client\Client\obj\Debug\Client.pdb
-C:\Study\Messages\ClientMessage\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
