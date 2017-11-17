@@ -5,7 +5,7 @@ namespace SysLogServer.Listeners
     public interface IListener
     {
         Action<byte[]> MessageRecivedAction { get; set; }
-        void Start();
+        void StartAsync();
         void Stop();
     }
 }

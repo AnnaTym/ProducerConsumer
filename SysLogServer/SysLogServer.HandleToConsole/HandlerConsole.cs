@@ -11,7 +11,6 @@ namespace SysLogServer.HandleToConsole
         public void Handle(object obj)
         {
             string message = obj as string;
-
             Console.WriteLine($"Received message :\n {message}\n");
         }
     }

@@ -1,7 +1,6 @@
 ﻿using System;
 using System.ComponentModel.Composition;
 using System.Configuration;
-using System.Net;
 using System.Net.Sockets;
 
 namespace SysLogServer.Listeners
@@ -12,31 +11,26 @@ namespace SysLogServer.Listeners
         public Action<byte[]> MessageRecivedAction { get; set; }
 
         private readonly UdpClient listener;
-
-        private IPEndPoint groupEP;
         private bool isListen;
 
         public UdpListener()
         {
             int listenPort = Int32.Parse(ConfigurationManager.AppSettings["udpPort"]);
             listener = new UdpClient(listenPort);
-            groupEP = new IPEndPoint(IPAddress.Any, listenPort);
         }
 
-        public void Start()
+        public async void StartAsync()
         {
             isListen = true;
 
-            Console.WriteLine("UdpClient start");
-
+            Console.WriteLine("Server was started");
             try
             {
                 while (isListen)
                 {
-                    byte[] bytes = listener.Receive(ref groupEP);
-                    MessageRecivedAction?.Invoke(bytes);
+                    UdpReceiveResult bytes = await listener.ReceiveAsync();
+                    MessageRecivedAction?.Invoke(bytes.Buffer);
                 }
-
             }
             catch (Exception e)
             {
@@ -45,7 +39,7 @@ namespace SysLogServer.Listeners
             finally
             {
                 listener.Close();
-                Console.WriteLine("UdpClient stop");
+                Console.WriteLine("Server was stopped");
             }
         }
 

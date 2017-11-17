@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.Composition.Hosting;
+﻿using System;
+using System.ComponentModel.Composition.Hosting;
 
 using SysLogServer.Listeners;
 using SysLogServer.MessageParsers;
@@ -16,8 +17,15 @@ namespace SysLogServer
             var parser = container.GetExportedValue<IMessageParser>();
 
             listener.MessageRecivedAction = parser.ParseMessage;
+            listener.StartAsync();
 
-            listener.Start();
+            Console.WriteLine("Press any key to stop server");
+            Console.ReadKey();
+
+            listener.Stop();
+
+            Console.WriteLine("Press any key to close program");
+            Console.ReadKey();
         }
     }
 }
