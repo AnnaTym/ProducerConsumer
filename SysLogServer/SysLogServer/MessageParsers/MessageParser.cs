@@ -9,8 +9,8 @@ namespace SysLogServer.MessageParsers
     [Export(typeof(IMessageParser))]
     public class MessageParser : IMessageParser
     {
-        [ImportMany]
 #pragma warning disable 649
+        [ImportMany]
         private IEnumerable<IHandler> handlers;
 #pragma warning restore 649
 
